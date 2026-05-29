@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "livebearer.aternos.host:34355",
+    "ip": "blossomsmpnt.aternos.me:34355",
     "port": 27586,
     "version": "26.1.2 ",
     "try-creative": false
